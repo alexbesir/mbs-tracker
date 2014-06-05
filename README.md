@@ -1,17 +1,16 @@
 MBS tracker
 ===========
 
-Written by Alexander Besir (alex.besir@gmail.com)
-
-Faculty of Computer and Information Science Ljubljana
-
-May, 2014
+Written by Alexander Besir (alex.besir@gmail.com), Faculty of Computer and Information Science Ljubljana, May, 2014
 
 The MBS tracker is a freely-moving camera background subtraction based
 object tracker written in Matlab. It utilizes the keyframe-based short-term
 image stabilization technique to remove camera motion from the video,
 MOG background subtraction and median image for foregorund extraction, and finally
 hsitogram backprojection with CamShift for tracking.
+
+The tracker may be seen in action on the author's web application:
+http://alexbesir.com/projects/mbs/
 
 Requirements:
 -------------
