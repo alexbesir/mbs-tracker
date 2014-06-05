@@ -19,7 +19,7 @@ Requirements:
 - OpenCV (version 2.4.8. or above)
 - MexOpenCV (http://www.cs.stonybrook.edu/~kyamagu/mexopencv/)
 
-Aslo, the tracker may be integrated to the VOT2013-toolkit
+Also, the tracker may be integrated to the VOT2013-toolkit
 (http://www.votchallenge.net/vot2013/). The wrapper and all required
 configuration files are provided int the `vot2013-toolkit-integration`
 directory.
@@ -29,7 +29,7 @@ License:
 
 The MIT License (MIT)
 
-Copyright (c) 2014 Aleksander Bešir
+Copyright (c) 2014 Aleksander Beï¿½ir
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
