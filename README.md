@@ -1,11 +1,11 @@
- bbs = MBS_track(imgFileNames,bb,options)
+ bbs = MBS_track(filenames,bb,options)
 ==========================================
 
   A moving-background subtraction based object tracker.
  
   Inputs:
  
-     imgFileNames ... a cell array with N elements of image filenames
+     filenames ...... a cell array with N elements of image filenames
                       that represent individual frames of the input video
  
      bb ............. bounding box of the target object's location in the
