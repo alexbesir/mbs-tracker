@@ -46,6 +46,4 @@
                       background will be saved to an mp4 file specified by
                       the value of this option (ex. 'back.avi')
  
-  Written by Alexander Besir (alex.besir@gmail.com)
-  Faculty of Computer and Information Science Ljubljana
-  May, 2014
+  Written by Alexander Besir (alex.besir@gmail.com), Faculty of Computer and Information Science Ljubljana, May, 2014
