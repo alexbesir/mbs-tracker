@@ -2,7 +2,9 @@ MBS tracker
 ===========
 
 Written by Alexander Besir (alex.besir@gmail.com)
+
 Faculty of Computer and Information Science Ljubljana
+
 May, 2014
 
 The MBS tracker is a freely-moving camera background subtraction based
