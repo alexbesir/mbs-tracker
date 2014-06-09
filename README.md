@@ -24,6 +24,13 @@ Also, the tracker may be integrated to the VOT2013-toolkit
 configuration files are provided int the `vot2013-toolkit-integration`
 directory.
 
+References:
+-----------
+
+- MBS_track function reference: https://github.com/alexbesir/mbs-tracker/blob/master/mbs-tracker/README.md
+- VOT2013 toolkit inegration instructions: https://github.com/alexbesir/mbs-tracker/blob/master/vot2013-toolkit-integration/README.md
+- Example output videos: http://www.alexbesir.com/projects/mbs/
+
 License:
 --------
 
